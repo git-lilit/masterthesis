@@ -1,0 +1,9 @@
+data/ppb_affinity
+src/cache
+src/wandb
+src/model_weights
+_antibodies/data
+__pycache__
+.git_
+modules/
+_antibodies
