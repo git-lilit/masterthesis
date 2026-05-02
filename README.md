@@ -8,18 +8,11 @@ This repository contains the implementation and experiments for fine-tuning an i
 
 ### `data/`
 
-* `ppb_affinity_dataset/`: Raw protein–protein binding affinity dataset.
 * `processed_data.csv`: Curated and preprocessed dataset used for training and evaluation.
 
 ### `figures/`
 
 * Contains final plots and visualizations summarizing model performance and evaluation results.
-
-### `modules/`
-
-* `affinity_model/`: Implementation of the binding affinity prediction model.
-* `weights/`: Pretrained weights for the affinity model.
-* `proteinmpnn/`: ProteinMPNN source code with custom modifications for this project.
 
 ### `src/`
 
