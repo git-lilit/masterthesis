@@ -1,7 +1,7 @@
 # Binding-Aware Protein Design via Fine-Tuned ProteinMPNN
 
 ## Overview
-This repository contains my Master's project done at the University of Freiburg in collaboration with Neurorobotics Lab, originally developed at the Lab Gitlab and uploaded to Github for demostration. It contains the implementation and experiments for fine-tuning a generative model (protein inverse folding, ProteinMPNN) to optimize a specific property (protein–protein binding affinity) using reward-augmented training (RAML - Reward Augemtned Maximum Likelihood).
+This repository contains my Master's thesis done at the University of Freiburg in collaboration with Neurorobotics Lab, originally developed at the Lab Gitlab and uploaded to Github for demostration. It contains the implementation and experiments for fine-tuning a generative model (protein inverse folding, ProteinMPNN) to optimize a specific property (protein–protein binding affinity) using reward-augmented training (RAML - Reward Augemtned Maximum Likelihood).
 
 ## Repository Structure
 
